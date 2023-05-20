@@ -1,0 +1,27 @@
+{
+  "name": "toml-parse",
+  "version": "1.0.1",
+  "description": "Simple TOML parser",
+  "main": "toml-parse.js",
+  "exports": {
+    "import": "./toml-parse.js",
+    "require": "./toml-parse.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/toml-parse.js.git"
+  },
+  "keywords": [
+    "toml",
+    "toml-parse",
+    "toml-json",
+    "toml-css"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/toml-parse.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/toml-parse.js#readme"
+}
